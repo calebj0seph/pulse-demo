@@ -1,0 +1,16 @@
+{
+"companyName": "Caleb Joseph",
+"productName": "Pulse",
+"productVersion": "0.1",
+"dataUrl": "Pulse_webgl.data.unityweb",
+"wasmCodeUrl": "Pulse_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pulse_webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFBF2",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
